@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deltahacks_todo/static/css/main.06a6fa1c.css",
+    "main.js": "/deltahacks_todo/static/js/main.6a1b6e2e.js",
+    "static/js/787.252c5a3f.chunk.js": "/deltahacks_todo/static/js/787.252c5a3f.chunk.js",
+    "index.html": "/deltahacks_todo/index.html",
+    "main.06a6fa1c.css.map": "/deltahacks_todo/static/css/main.06a6fa1c.css.map",
+    "main.6a1b6e2e.js.map": "/deltahacks_todo/static/js/main.6a1b6e2e.js.map",
+    "787.252c5a3f.chunk.js.map": "/deltahacks_todo/static/js/787.252c5a3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06a6fa1c.css",
+    "static/js/main.6a1b6e2e.js"
+  ]
+}
